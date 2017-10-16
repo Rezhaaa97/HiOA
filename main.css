@@ -1,5 +1,51 @@
 header{
     background-color: #f1dc48;
     height: 200px;
-    width: 200px;
+    width: 100%;
+    float: left;
 }
+.logo{
+    height: 200px;
+    width: 10%;
+    float:left;
+}
+.navBar{
+    height: 200px;
+    width: 100%;
+    float: left;
+    
+}
+
+.navBox{
+    height: 120px;
+    width: 33.33%;
+    float: left;
+    background-color: #efe5a0;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+footer{
+    background-color: #f1dc48;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+
